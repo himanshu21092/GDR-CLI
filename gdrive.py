@@ -10,7 +10,7 @@ from Commands.download import Download
 #Auth.logout()
 Download.downloadById()
 
-file = [{'filename': '/Users/himanshu/Desktop/test.png', 'mimetype': None},
-        {'filename': 'Himanshu.png', 'mimetype': None}]
+# file = [{'filename': '/Users/himanshu/Desktop/test.png', 'mimetype': None},
+#         {'filename': 'Himanshu.png', 'mimetype': None}]
 
 # Upload.uploadSmallFile(files=file)

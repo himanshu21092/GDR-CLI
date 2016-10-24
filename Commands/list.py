@@ -35,3 +35,7 @@ class List():
             if page_token is None:
                 break
 
+
+    @staticmethod
+    def searchFileById(file_id):
+        service = Auth.login()
